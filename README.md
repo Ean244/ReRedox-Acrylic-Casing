@@ -1,6 +1,6 @@
-# ReRedox-Acrylic-Casing
+# Terminal-Acrylic-Casing
 
-This is a sandwich case designed for the [ReRedox Keyboard](https://github.com/Ean244/ReRedox)
+This is a sandwich case designed for the [Terminal Keyboard](https://github.com/Ean244/Terminal)
 
 Materials and tools required
 
